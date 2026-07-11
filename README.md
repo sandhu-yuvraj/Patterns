@@ -9,6 +9,7 @@ These are different types of Pattern Printing problems in C, C++ and Python.
 - `alphabetSquare.cpp` - Prints a square of uppercase alphabet.
 - `alphabetTriangle.cpp` - Prints a triangle of uppercase alphabet.
 - `alphaNumericTriangle.cpp` Prints a combination of alphabet and numbers in a triangular pattern.
+- `flippedTriangle.cpp` - Prints a horizontally flipped triangle of numbers.
 - `mario-less.c` - Prints a right aligned pyramid of #.
 - `mario-more.c` - Prints a right aligned and left aligned pyramid of #.
 - `mixAlphaSquare.cpp` - Prints a combination of upper and lower case alphabet in square.
