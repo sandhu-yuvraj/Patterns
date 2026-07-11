@@ -1,6 +1,6 @@
 // Prints a square of capital letters
 // 65 is the ASCII value of 'A' and it continues till 90 for 'Z'
-// We print letters column wise
+// Prints letters column wise
 #include <iostream>
 using namespace std;
 int main(){
