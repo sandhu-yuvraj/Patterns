@@ -1,5 +1,6 @@
 // Prints a modified alphabet square
 // Prints letters in lower case for odd rows and upper case for even rows
+// Prints letters row wise
 #include <iostream>
 using namespace std;
 int main (){
