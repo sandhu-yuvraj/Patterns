@@ -2,14 +2,8 @@
 int main(void)
 {
     int n;
-
-    do
-    {
-           printf("What's n? ");  // enter n between 1 and 8 (inclusive)
+           printf("What's n? ");
             scanf("%d", &n);
-
-    }
-    while (n < 1 || n > 8);
     for (int i = 0; i < n; i++)
     {
         for (int j = 0; j < n - i - 1; j++)
