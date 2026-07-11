@@ -17,4 +17,5 @@ These are different types of Pattern Printing problems in C, C++ and Python.
 - `numericTriangle.py` - Prints a right aligned right angled triangle of numbers as given in input by user.
 - `rectPattern1.py` - Prints a rectangle of numbers where number is equal to column number.
 - `rectPattern2.py` - Prints a rectangle of numbers where number is equal to row number.
+- `starPlus.cpp` - Prints a '+' of '*'.
 - `triangularPattern.py` - Prints a right triangle of numbers where number is equal to row number.
