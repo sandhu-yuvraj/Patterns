@@ -3,7 +3,7 @@
 using namespace std;
 int main(){
     int n;
-    cout<<"Enter size: ";  // Enter odd number for best response
+    cout<<"Enter Size: ";  // Enter odd number for best response
     cin>>n;
     for (int i=1; i<=n; i++){
         for (int j=1; j<=n; j++){
