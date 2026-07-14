@@ -20,6 +20,7 @@ These are different types of Pattern Printing problems in C, C++ and Python.
 - `oddTriangle.cpp` - Prints a right angled triangle of odd numbers.
 - `rectPattern1.py` - Prints a rectangle of numbers where number is equal to column number.
 - `rectPattern2.py` - Prints a rectangle of numbers where number is equal to row number.
+- `rhombus.cpp` - Prints a rhombus as per user input.
 - `starCross.cpp` - Prints a cross sign of '*'.
 - `starPlus.cpp` - Prints a '+' of '*'.
 - `triangularPattern.py` - Prints a right triangle of numbers where number is equal to row number.
