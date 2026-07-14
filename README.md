@@ -8,7 +8,8 @@ These are different types of Pattern Printing problems in C, C++ and Python.
 
 - `alphabetSquare.cpp` - Prints a square of uppercase alphabet.
 - `alphabetTriangle.cpp` - Prints a triangle of uppercase alphabet.
-- `alphaNumericTriangle.cpp` Prints a combination of alphabet and numbers in a triangular pattern.
+- `alphaNumericTriangle.cpp` - Prints a combination of alphabet and numbers in a triangular pattern.
+- `binaryTriangle.cpp` - Prints a right triangle using binary digits.
 - `flippedTriangle.cpp` - Prints a horizontally flipped triangle of numbers.
 - `floyd.cpp` - Prints Floyd's triangle as per user input.
 - `hollowRectangle` - Prints a photoframe like hollow rectangle.
