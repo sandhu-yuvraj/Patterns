@@ -1,4 +1,4 @@
-// Prints a number spiral of input
+// Prints a number square as per input
 #include <iostream>
 using namespace std;
 int main(){
