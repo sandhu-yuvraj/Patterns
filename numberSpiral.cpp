@@ -1,4 +1,5 @@
 // Prints a number spiral
+// Spiral printed is in ascending order i.e. 1 on outside and 'n' in in center.
 #include <iostream>
 using namespace std;
 int main(){
