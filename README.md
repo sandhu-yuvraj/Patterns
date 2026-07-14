@@ -16,6 +16,7 @@ These are different types of Pattern Printing problems in C, C++ and Python.
 - `mario-less.c` - Prints a right aligned pyramid of #.
 - `mario-more.c` - Prints a right aligned and left aligned pyramid of #.
 - `mixAlphaSquare.cpp` - Prints a combination of upper and lower case alphabet in square.
+- `numberSquare.cpp` - Prints a number square.
 - `numericTriangle.py` - Prints a right aligned right angled triangle of numbers as given in input by user.
 - `oddTriangle.cpp` - Prints a right angled triangle of odd numbers.
 - `pyramid.cpp` - Prints a centrally aligned pyramid as per user input.
