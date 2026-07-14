@@ -27,8 +27,8 @@ int main(void)
 /* Method 2:
    Print a square :
    for (int i =1; i<= n; i++){
-      for (int j =1; j<=n; j++){
-         if ((i+j) > n )  cout<<"# ";
+      for (int j =1; j<=n; j++){  
+         if ((i+j) > n )  cout<<"# ";   // If we cout<<j we get vertically flipped numeric triangle.
          else cout<<"  ";
           }
       }   
