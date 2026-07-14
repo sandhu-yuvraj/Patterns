@@ -1,8 +1,13 @@
+// Generates a right aligned pyramid
+// Vertically flipped right triangle
+// Similar to one which mario climbs in mario game
+// Programmed in C
+// My first pattern printing program
 #include<stdio.h>
 int main(void)
 {
     int n;
-    printf("What's n? ");  // enter n between 1 and 8 (inclusive)
+    printf("What's n? ");
     scanf("%d", &n);
     
     for (int i = 0; i < n; i++)
